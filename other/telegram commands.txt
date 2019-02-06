@@ -1,0 +1,8 @@
+Commands:
+start - demo
+screen - screenshots 1st instance
+pause - pauses the bot 
+qch - changes quest or gw quest
+berries - changes spam usage of berries 
+capcha - inputs the captcha text in the verification dialog
+vpause - pauses the bot after verification has triggered
