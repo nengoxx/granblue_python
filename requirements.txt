@@ -1,0 +1,9 @@
+pyautogui
+selenium
+selenium-requests
+opencv-python
+numpy
+python3_xlib
+python-telegram-bot
+cprofilev
+psutil
