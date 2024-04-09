@@ -13,4 +13,4 @@ Some of the features are:
 - poker is not yet implemented since I used my old autoit bot without any problem
 - telegram integration to change settings, alert and send capchas, or simple error alerts(commands are outdated, check telegram_bot.py)
 
-Disclaimer: This was developed long time ago and I didn't test it since I got banned, I published it for learning purposes alone.
+Disclaimer: This was developed long time ago and I didn't test it since, I published it for learning purposes alone.
